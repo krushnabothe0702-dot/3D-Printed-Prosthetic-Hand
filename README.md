@@ -1,5 +1,6 @@
 # 3D-Printed Prosthetic Hand — Body-Powered, Cord-Driven Prototype
 
+**Team:** Vaibhav Sampat Dighe (2126UMEM1061) · Krushna Uday Bothe (2126UMEM1006) · Tanmay Vijay Matade (2126UMEM1074) · Pranav Dhus (2126UMEM1075)  
 **Website:** https://krushnabothe0702-dot.github.io/3D-Printed-Prosthetic-Hand/
 
 A student engineering project at **Sanjivani University**: a low-cost mechanical hand made of 3D-printed parts, cord and elastic. Bending the wrist pulls cords (artificial tendons) that curl the fingers; elastic on the back of each finger opens them again. No motors or batteries.
