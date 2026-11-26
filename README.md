@@ -38,7 +38,7 @@ A partial-hand limb difference with a working wrist. The remaining wrist movemen
 
 | Part | Proposed dimension |
 |---|---:|
-| Palm (width × height × thickness) | 100 × 90 × 12 mm |
+| Palm (width × height × thickness) | 64 × 90 × 12 mm |
 | Finger width | 16 mm |
 | Finger proximal / distal segment | 55 mm / 35 mm |
 | Total finger reach | 90 mm |
