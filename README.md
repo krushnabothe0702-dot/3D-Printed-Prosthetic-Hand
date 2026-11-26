@@ -6,7 +6,13 @@ A student engineering project at **Sanjivani University**: a low-cost mechanical
 
 ![The assembled prosthetic hand](media/photos/hand-assembled-top.jpg)
 
-> **Status:** all parts sliced, printed and assembled; tendons routed and tensioned. Functional bench testing is next — no grip-strength or performance results are claimed yet.
+> **Status:** all parts sliced, printed and assembled; tendons routed and tensioned. First tabletop grasp demonstrated — the hand picked up a roll of tape ([video](media/videos/grasp-test.mp4)). Measured testing is next — no grip-strength results are claimed yet.
+
+## Who it is for
+
+![A partial hand with a working wrist](media/photos/partial-hand-motivation.jpg)
+
+A partial-hand limb difference with a working wrist. The remaining wrist movement is what drives this design: bending the wrist pulls the cords and closes the printed fingers.
 
 ## How it works
 
@@ -25,6 +31,7 @@ A student engineering project at **Sanjivani University**: a low-cost mechanical
 | 4 | Pinned the joints, routed the tendons | [photo](media/photos/assembly-routing-tendons.jpg) |
 | 5 | Tied off and tensioned the cords at the gauntlet | [photo](media/photos/assembly-tensioning-cords.jpg) |
 | 6 | Complete prototype | [photo](media/photos/hand-gauntlet-underside.jpg) |
+| 7 | First grasp test: picked up a roll of tape (bench, not worn) | [video](media/videos/grasp-test.mp4) |
 
 ## Design dimensions (design values, not as-built)
 
@@ -53,8 +60,8 @@ cad/                  Place for CAD / STL files (to be added)
 
 ## Next steps
 
-- Bench test: wrist bend closes all five fingers evenly, and they reopen
-- Tabletop grasp tests with light objects; record results
+- Measured bench test: wrist angle to close all five fingers evenly, and reliable reopening
+- More grasp tests with light objects (cup, ball, bottle); record results
 - Measure as-built dimensions; add CAD/STL files and print settings
 
 ## Safety
