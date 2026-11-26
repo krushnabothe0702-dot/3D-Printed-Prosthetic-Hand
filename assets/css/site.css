@@ -680,31 +680,20 @@ figcaption {
 
 /* ---------- gallery ---------- */
 .gallery-grid {
-  display: grid;
-  grid-template-columns: repeat(4, 1fr);
-  grid-auto-rows: 220px;
-  gap: 12px;
+  columns: 3 280px;
+  column-gap: 12px;
 }
 
 .gallery-grid .image-button {
-  grid-column: span 2;
+  break-inside: avoid;
+  margin-bottom: 12px;
   overflow: hidden;
   border: 1px solid var(--border);
 }
 
-.gallery-grid .image-button.tall {
-  grid-column: span 1;
-  grid-row: span 2;
-}
-
-.gallery-grid .image-button:not(.tall) {
-  grid-row: span 1;
-}
-
 .gallery-grid img {
   width: 100%;
-  height: 100%;
-  object-fit: cover;
+  height: auto;
 }
 
 .gallery-grid .image-button:hover img {
@@ -903,11 +892,6 @@ figcaption {
   .component-list,
   .team-grid {
     grid-template-columns: 1fr;
-  }
-
-  .gallery-grid {
-    grid-template-columns: 1fr 1fr;
-    grid-auto-rows: 160px;
   }
 
   .section {

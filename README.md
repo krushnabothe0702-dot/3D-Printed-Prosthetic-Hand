@@ -31,7 +31,8 @@ A partial-hand limb difference with a working wrist. The remaining wrist movemen
 | 4 | Pinned the joints, routed the tendons | [photo](media/photos/assembly-routing-tendons.jpg) |
 | 5 | Tied off and tensioned the cords at the gauntlet | [photo](media/photos/assembly-tensioning-cords.jpg) |
 | 6 | Complete prototype | [photo](media/photos/hand-gauntlet-underside.jpg) |
-| 7 | First grasp test: picked up a roll of tape (bench, not worn) | [video](media/videos/grasp-test.mp4) |
+| 7 | Checked the finger joints and cord movement | [photo](media/photos/checking-finger-joints.jpg) |
+| 8 | First grasp test: picked up a roll of tape (bench, not worn) | [video](media/videos/grasp-test.mp4) |
 
 ## Design dimensions (design values, not as-built)
 
