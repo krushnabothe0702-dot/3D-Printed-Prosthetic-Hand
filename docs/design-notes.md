@@ -7,8 +7,8 @@ The project started from a hand-drawn sketch of the palm, fingers and a forearm 
 | Part | Measurement |
 |---|---:|
 | Forearm section | 25 cm (250 mm) |
-| Palm length | 10 cm (100 mm) |
-| Palm width | 9 cm (90 mm) |
+| Palm height | 9 cm (90 mm) |
+| Palm width | 10 cm (100 mm) |
 | Finger length (as drawn) | 20 cm (200 mm) |
 | Finger spread / height | 10 cm (100 mm) |
 
@@ -20,7 +20,7 @@ A literal 200 mm finger is far longer than a human finger, so the printable star
 
 | Part | Proposed dimension |
 |---|---:|
-| Palm | 90 × 100 × 12 mm |
+| Palm (width × height × thickness) | 100 × 90 × 12 mm |
 | Finger width | 16 mm |
 | Finger proximal segment | 55 mm |
 | Finger distal segment | 35 mm |
