@@ -49,9 +49,24 @@ Mechanical strings operated by wrist movement (body-powered). No servos or elect
 - Return: elastic cord / bands
 - Pins: printed pins or suitable small bolts; no sharp exposed ends
 
+## 5. CAD assembly (SOLIDWORKS)
+
+The hand is modelled as a SOLIDWORKS assembly: [`cad/group 25 hand assembly.SLDASM`](../cad/group%2025%20hand%20assembly.SLDASM), with a STEP copy at [`cad/group-25-hand-assembly.step`](../cad/group-25-hand-assembly.step).
+
+| Front | Dimetric |
+|---|---|
+| ![Front view](../media/cad/assembly-front.jpg) | ![Dimetric view](../media/cad/assembly-dimetric.jpg) |
+
+- **29 components** (16 different parts), positioned by **39 mates**
+- Overall size in the modelled pose: about **117 × 218 × 74 mm**
+- Palm part (`Palm_Left`) bounding box from CAD: **92 × 83.5 × 31.4 mm** (includes the knuckle and wrist features)
+- Full parts list with quantities and sizes: [cad/README.md](../cad/README.md)
+
+Based on the e-NABLE Phoenix Hand (CC BY-NC-SA) — see [cad/README.md](../cad/README.md#design-source-and-license).
+
 ## Team
 
-3D-Printed Prosthetic Hand — student project, Sanjivani University
+Group 25 — 3D-Printed Prosthetic Hand, Sanjivani University
 
 | # | Name | PRN |
 |---|---|---|

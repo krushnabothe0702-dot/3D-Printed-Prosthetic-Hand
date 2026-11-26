@@ -1,6 +1,6 @@
 # 3D-Printed Prosthetic Hand — Body-Powered, Cord-Driven Prototype
 
-**Team:** Vaibhav Sampat Dighe (2126UMEM1061) · Krushna Uday Bothe (2126UMEM1006) · Tanmay Vijay Matade (2126UMEM1074) · Pranav Dhus (2126UMEM1075)  
+**Group 25** · **Team:** Vaibhav Sampat Dighe (2126UMEM1061) · Krushna Uday Bothe (2126UMEM1006) · Tanmay Vijay Matade (2126UMEM1074) · Pranav Dhus (2126UMEM1075)  
 **Website:** https://krushnabothe0702-dot.github.io/3D-Printed-Prosthetic-Hand/
 
 A student engineering project at **Sanjivani University**: a low-cost mechanical hand made of 3D-printed parts, cord and elastic. Bending the wrist pulls cords (artificial tendons) that curl the fingers; elastic on the back of each finger opens them again. No motors or batteries.
@@ -35,6 +35,17 @@ A partial-hand limb difference with a working wrist. The remaining wrist movemen
 | 7 | Checked the finger joints and cord movement | [photo](media/photos/checking-finger-joints.jpg) |
 | 8 | First grasp test: picked up a roll of tape (bench, not worn) | [video](media/videos/grasp-test.mp4) |
 
+## CAD model (SOLIDWORKS)
+
+![SOLIDWORKS assembly](media/cad/assembly-isometric.jpg)
+
+- Assembly: [`cad/group 25 hand assembly.SLDASM`](cad/group%2025%20hand%20assembly.SLDASM) with its 16 part files in [`cad/Hand Parts`](cad/Hand%20Parts)
+- STEP (no SOLIDWORKS needed): [`cad/group-25-hand-assembly.step`](cad/group-25-hand-assembly.step)
+- 29 components, 39 mates, about 117 × 218 × 74 mm overall
+- Full parts list: [cad/README.md](cad/README.md)
+
+**Design source:** based on the open-source [e-NABLE Phoenix Hand](https://enablingthefuture.org/phoenix-hand/) ([Thingiverse 1453190](https://www.thingiverse.com/thing:1453190)), licensed CC BY-NC-SA.
+
 ## Design dimensions (design values, not as-built)
 
 | Part | Proposed dimension |
@@ -57,14 +68,14 @@ assets/               Website styles, script, icon and share image
 media/photos/         Real photographs of the build
 media/videos/         Slicing and printing videos
 docs/                 Project overview, design notes, build guide
-cad/                  Place for CAD / STL files (to be added)
+cad/                  SOLIDWORKS assembly, 16 part files, STEP export, parts list
 ```
 
 ## Next steps
 
 - Measured bench test: wrist angle to close all five fingers evenly, and reliable reopening
 - More grasp tests with light objects (cup, ball, bottle); record results
-- Measure as-built dimensions; add CAD/STL files and print settings
+- Measure as-built dimensions; add STL files and print settings
 
 ## Safety
 
