@@ -1,7 +1,7 @@
 // 3D-Printed Prosthetic Hand — site behaviour
 
 // ===== Edit these to update the names shown on the website =====
-const TEAM_NAMES = "Team member names — to be added";
+const TEAM_NAMES = "Vaibhav Sampat Dighe · Krushna Uday Bothe · Tanmay Vijay Matade · Pranav Dhus";
 const GUIDE_NAME = "To be added";
 // ================================================================
 

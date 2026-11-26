@@ -71,6 +71,12 @@ Educational, non-clinical prototype. Not load-tested, fitted, or reviewed by a p
 
 ## Team
 
-- Team members: *to be added*
+| # | Name | PRN |
+|---|---|---|
+| 1 | Vaibhav Sampat Dighe | 2126UMEM1061 |
+| 2 | Krushna Uday Bothe | 2126UMEM1006 |
+| 3 | Tanmay Vijay Matade | 2126UMEM1074 |
+| 4 | Pranav Dhus | 2126UMEM1075 |
+
 - Project guide: *to be added*
 - Sanjivani University

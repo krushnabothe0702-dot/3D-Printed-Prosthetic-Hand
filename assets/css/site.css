@@ -756,8 +756,20 @@ figcaption {
 /* ---------- team ---------- */
 .team-grid {
   display: grid;
-  grid-template-columns: repeat(3, 1fr);
+  grid-template-columns: repeat(4, 1fr);
   gap: 16px;
+}
+
+.team-grid-meta {
+  grid-template-columns: repeat(2, 1fr);
+  margin-top: 16px;
+}
+
+.team-prn {
+  margin: 4px 0 0;
+  font-family: ui-monospace, "Cascadia Code", Consolas, monospace;
+  font-size: 14px;
+  color: var(--accent);
 }
 
 .team-role {
@@ -851,6 +863,10 @@ figcaption {
 
   .timeline-step {
     grid-template-columns: 1fr;
+  }
+
+  .team-grid {
+    grid-template-columns: 1fr 1fr;
   }
 
   .timeline-media {
