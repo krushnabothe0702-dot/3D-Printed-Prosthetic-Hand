@@ -16,16 +16,14 @@ Some values may be misread because of the drawing's orientation.
 
 ## 2. Proposed printable dimensions
 
-A literal 200 mm finger is far longer than a human finger, so the printable starting point uses about 90 mm of finger reach.
+A literal 200 mm finger is far longer than a human finger, so the printable design uses a 65 mm middle finger and 55 mm for the other fingers and the thumb.
 
 | Part | Proposed dimension |
 |---|---:|
 | Palm (width × height × thickness) | 64 × 90 × 12 mm |
-| Finger width | 16 mm |
-| Finger proximal segment | 55 mm |
-| Finger distal segment | 35 mm |
-| Total finger reach | 90 mm (55 + 35) |
-| Thumb segments | 38 mm each |
+| Thumb (height × width) | 55 × 20 mm |
+| Middle finger (height × width) | 65 × 14 mm |
+| Index, ring & little fingers (height × width) | 55 × 14 mm each |
 | Hinge holes | ⌀4.3 mm |
 | Forearm attachment | 250 mm, designed as a separate part |
 

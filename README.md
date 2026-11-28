@@ -51,10 +51,9 @@ A partial-hand limb difference with a working wrist. The remaining wrist movemen
 | Part | Proposed dimension |
 |---|---:|
 | Palm (width × height × thickness) | 64 × 90 × 12 mm |
-| Finger width | 16 mm |
-| Finger proximal / distal segment | 55 mm / 35 mm |
-| Total finger reach | 90 mm |
-| Thumb segments | 38 mm each |
+| Thumb (height × width) | 55 × 20 mm |
+| Middle finger (height × width) | 65 × 14 mm |
+| Index, ring & little fingers (height × width) | 55 × 14 mm each |
 | Hinge holes | ⌀4.3 mm |
 | Forearm attachment | 250 mm, separate part |
 
