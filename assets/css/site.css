@@ -858,6 +858,18 @@ figcaption {
   margin-top: 16px;
 }
 
+.team-photo {
+  width: 100%;
+  aspect-ratio: 1 / 1;
+  object-fit: cover;
+  border: 1px solid var(--border);
+  margin-bottom: 12px;
+}
+
+.team-grid {
+  align-items: start;
+}
+
 .team-prn {
   margin: 4px 0 0;
   font-family: ui-monospace, "Cascadia Code", Consolas, monospace;

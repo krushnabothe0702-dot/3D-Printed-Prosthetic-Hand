@@ -29,10 +29,10 @@ A partial-hand limb difference with a working wrist. The remaining wrist movemen
 | 1 | Hand sketch with measurements → proposed printable dimensions | [design notes](docs/design-notes.md) |
 | 2 | Arranged and sliced all parts | [video](media/videos/slicing-parts.mp4) |
 | 3 | 3D-printed the parts on a Bambu Lab H2D (white filament, FDM, with supports) | [video](media/videos/printing-parts.mp4) |
-| 4 | Pinned the joints, routed the tendons | [photo](media/photos/assembly-routing-tendons.jpg) |
-| 5 | Tied off and tensioned the cords at the gauntlet | [photo](media/photos/assembly-tensioning-cords.jpg) |
+| 4 | Pinned the joints, routed the tendons | — |
+| 5 | Tied off and tensioned the cords at the gauntlet (Krushna Bothe) | [photo](media/photos/krushna-bothe-tensioning-cords.jpg) |
 | 6 | Complete prototype | [photo](media/photos/hand-gauntlet-underside.jpg) |
-| 7 | Checked the finger joints and cord movement | [photo](media/photos/checking-finger-joints.jpg) |
+| 7 | Checked the finger joints and cord movement | — |
 | 8 | First grasp test: picked up a roll of tape (bench, not worn) | [video](media/videos/grasp-test.mp4) |
 
 ## CAD model (SOLIDWORKS)
