@@ -28,7 +28,7 @@ A partial-hand limb difference with a working wrist. The remaining wrist movemen
 |---|---|---|
 | 1 | Hand sketch with measurements → proposed printable dimensions | [design notes](docs/design-notes.md) |
 | 2 | Arranged and sliced all parts | [video](media/videos/slicing-parts.mp4) |
-| 3 | 3D-printed the parts (white filament, FDM, with supports) | [video](media/videos/printing-parts.mp4) |
+| 3 | 3D-printed the parts on a Bambu Lab H2D (white filament, FDM, with supports) | [video](media/videos/printing-parts.mp4) |
 | 4 | Pinned the joints, routed the tendons | [photo](media/photos/assembly-routing-tendons.jpg) |
 | 5 | Tied off and tensioned the cords at the gauntlet | [photo](media/photos/assembly-tensioning-cords.jpg) |
 | 6 | Complete prototype | [photo](media/photos/hand-gauntlet-underside.jpg) |
@@ -45,6 +45,21 @@ A partial-hand limb difference with a working wrist. The remaining wrist movemen
 - Full parts list: [cad/README.md](cad/README.md)
 
 **Design source:** based on the open-source [e-NABLE Phoenix Hand](https://enablingthefuture.org/phoenix-hand/) ([Thingiverse 1453190](https://www.thingiverse.com/thing:1453190)), licensed CC BY-NC-SA.
+
+## Hand measurement drawing
+
+![Hand measurement drawing](media/photos/measurement-sketch.jpg)
+
+Left hand (partial hand, the side the device is for): palm 64 wide × 90 high, 78 mm section below the wrist. Right hand (reference for finger sizes): middle finger 65, other fingers and thumb 55, palm width 65. All in mm.
+
+## Machines
+
+| Machine | Used? | Purpose |
+|---|---|---|
+| **Bambu Lab H2D** (FDM, 2 nozzles, 325 × 320 × 325 mm) | ✅ Yes | Printed every part of the hand |
+| **CO2 laser cutter** by SIL (silasers.com) | ❌ Not used | Available in the makerspace; could cut straps, padding or a display stand in a later version |
+
+Details and photos: [docs/machines.md](docs/machines.md)
 
 ## Design dimensions (design values, not as-built)
 
@@ -66,7 +81,7 @@ index.html            Project website (GitHub Pages)
 assets/               Website styles, script, icon and share image
 media/photos/         Real photographs of the build
 media/videos/         Slicing and printing videos
-docs/                 Project overview, design notes, build guide
+docs/                 Design notes, build guide, machines
 cad/                  SOLIDWORKS assembly, 16 part files, STEP export, parts list
 ```
 

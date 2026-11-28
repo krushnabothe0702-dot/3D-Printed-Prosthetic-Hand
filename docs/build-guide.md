@@ -1,6 +1,6 @@
 # Build guide
 
-Recommended sequence, as followed for this prototype.
+Recommended sequence, as followed for this prototype. All parts were printed on a **Bambu Lab H2D** (see [machines.md](machines.md)); the makerspace laser cutter was not used.
 
 1. **Print one finger first** and check that the hinge moves freely.
 2. **Test the cord path and elastic return on the bench**, without attaching the hand to a person.

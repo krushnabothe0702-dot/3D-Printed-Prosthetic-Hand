@@ -1,5 +1,21 @@
 # Design notes
 
+## 0. Hand measurement drawing
+
+![Hand measurement drawing](../media/photos/measurement-sketch.jpg)
+
+All dimensions in mm.
+
+| Hand | Measurement | Value |
+|---|---|---:|
+| Left hand (partial hand — the device is for this side) | Palm width | 64 |
+| | Palm height | 90 |
+| | Section below the wrist (as marked) | 78 |
+| Right hand (reference for finger sizes) | Middle finger | 65 |
+| | Other fingers | 55 |
+| | Thumb | 55 |
+| | Palm width | 65 |
+
 ## 1. Original sketch measurements
 
 The project started from a hand-drawn sketch of the palm, fingers and a forearm section. The measurements read from it were:

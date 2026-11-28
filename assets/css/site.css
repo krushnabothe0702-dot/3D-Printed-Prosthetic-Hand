@@ -704,6 +704,73 @@ figcaption {
   }
 }
 
+.sketch-figure {
+  margin: 0 0 32px;
+}
+
+.sketch-figure img {
+  border: 1px solid var(--border);
+  background: #fff;
+}
+
+.machine-card {
+  display: grid;
+  grid-template-columns: minmax(220px, 320px) 1fr;
+  gap: 32px;
+  align-items: start;
+  background: var(--surface);
+  border: 1px solid var(--border);
+  padding: 24px;
+  margin-bottom: 24px;
+}
+
+.machine-photo {
+  margin: 0;
+}
+
+.machine-photo img {
+  border: 1px solid var(--border);
+}
+
+.machine-photo-wide {
+  align-self: center;
+}
+
+.machine-text p {
+  color: var(--muted);
+}
+
+.machine-text h3 {
+  font-size: 1.4rem;
+}
+
+.machine-status {
+  display: flex;
+  gap: 10px;
+  align-items: baseline;
+  margin: 0 0 6px;
+  font-size: 14px;
+}
+
+.machine-list {
+  color: var(--muted);
+  padding-left: 20px;
+}
+
+.machine-list li {
+  margin-bottom: 8px;
+}
+
+@media (max-width: 800px) {
+  .machine-card {
+    grid-template-columns: 1fr;
+  }
+
+  .machine-photo {
+    max-width: 360px;
+  }
+}
+
 /* ---------- gallery ---------- */
 .gallery-grid {
   columns: 3 280px;
