@@ -52,9 +52,6 @@ Group 25 — 3D-Printed Prosthetic Hand, Sanjivani University
 
 | # | Name | PRN |
 |---|---|---|
-| 1 | Vaibhav Sampat Dighe | 2126UMEM1061 |
-| 2 | Krushna Uday Bothe | 2126UMEM1006 |
-| 3 | Tanmay Vijay Matade | 2126UMEM1074 |
-| 4 | Pranav Dhus | 2126UMEM1075 |
+| 1 | Krushna Uday Bothe | 2126UMEM1006 |
 
 Project guide: *to be added*

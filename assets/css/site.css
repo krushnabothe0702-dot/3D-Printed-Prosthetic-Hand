@@ -853,6 +853,10 @@ figcaption {
   gap: 16px;
 }
 
+.team-grid-single {
+  grid-template-columns: minmax(220px, 300px);
+}
+
 .team-grid-meta {
   grid-template-columns: repeat(2, 1fr);
   margin-top: 16px;
